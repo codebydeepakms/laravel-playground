@@ -1,0 +1,47 @@
+{
+  "name": "laravel-playground",
+  "displayName": "Laravel Playground",
+  "description": "Run Laravel code quickly",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.80.0"
+  },
+  "icon": "images/icon.png",
+  "categories": [
+    "Other"
+  ],
+  "activationEvents": [
+    "onCommand:laravel-playground.run",
+    "onCommand:laravel-playground.execute"
+  ],
+  "main": "./out/extension.js",
+  "contributes": {
+    "commands": [
+      {
+        "command": "laravel-playground.run",
+        "title": "Open Laravel Playground"
+      },
+      {
+        "command": "laravel-playground.execute",
+        "title": "Run Laravel Code"
+      }
+    ],
+    "menus": {
+      "editor/title": [
+        {
+         "command": "laravel-playground.execute",
+          "when": "laravelPlaygroundActive",
+          "group": "navigation@1"
+        }
+      ]
+    }
+},
+  "scripts": {
+    "compile": "tsc -p ./"
+  },
+  "devDependencies": {
+    "@types/node": "^25.5.0",
+    "@types/vscode": "^1.80.0",
+    "typescript": "^5.0.0"
+  }
+} 
