@@ -43,5 +43,13 @@
     "@types/node": "^25.5.0",
     "@types/vscode": "^1.80.0",
     "typescript": "^5.0.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/msdeepak393/laravel-playground.git"
+  },
+  "bugs": {
+    "url": "https://github.com/msdeepak393/laravel-playground/issues"
+  },
+  "homepage": "https://github.com/msdeepak393/laravel-playground"
 } 
