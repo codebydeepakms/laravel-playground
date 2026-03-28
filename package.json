@@ -1,15 +1,31 @@
 {
-  "name": "laravel-playground",
-  "displayName": "Laravel Playground",
+  "name": "laravel-playground-code-runner",
+  "displayName": "Laravel Playground (Code Runner)",
   "publisher": "msdeepak393",
-  "description": "Run Laravel code quickly",
+  "description": "Run Laravel code quickly. Run Laravel code directly from editor.",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.80.0"
   },
   "icon": "images/icon.png",
   "categories": [
-    "Other"
+    "Programming Languages",
+    "Testing",
+    "Debuggers"
+  ],
+  "keywords": [
+    "laravel playground",
+    "laravel runner",
+    "playground",
+    "php runner",
+    "code runner",
+    "run laravel code",
+    "php",
+    "laravel",
+    "tinker",
+    "debug laravel",
+    "artisan tinker",
+    "laravel playground for you"
   ],
   "activationEvents": [
     "onCommand:laravel-playground.run",
