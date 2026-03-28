@@ -1,6 +1,7 @@
 {
   "name": "laravel-playground",
   "displayName": "Laravel Playground",
+  "publisher": "msdeepak393",
   "description": "Run Laravel code quickly",
   "version": "0.0.1",
   "engines": {
