@@ -1,25 +1,31 @@
 # Laravel Playground 🚀
 
-Run Laravel code instantly inside VS Code.
+**Laravel Playground (Code Runner)** is a **VS Code extension** that lets you **run Laravel code instantly inside Visual Studio Code**.  
 
-![screenshot](https://raw.githubusercontent.com/msdeepak393/laravel-playground/main/images/final_out/Screenshot%202026-03-28%20170732.png)
+💡 Download and install from the **VS Code Marketplace**:  
+[🔗 Install Laravel Playground from Marketplace](https://marketplace.visualstudio.com/items?itemName=msdeepak393.laravel-playground-code-runner)
 
+---
+
+![screenshot](https://raw.githubusercontent.com/msdeepak393/laravel-playground/main/images/final_out/Screenshot%202026-03-28%20170732.png)  
 ![screenshot](https://raw.githubusercontent.com/msdeepak393/laravel-playground/main/images/final_out/Screenshot%202026-03-28%20171045.png)
+
+---
 
 ## ✨ Features
 
-- ▶ Run Laravel code directly from editor
-- 📂 Auto creates `.playground/test.php`
-- ⚡ Instant execution using PHP CLI
-- 🧠 Full Laravel boot (Models, DB, Facades)
-- 📊 Output panel with:
-  - JSON viewer
-  - HTML preview
-  - Error display
-- 🔍 Global search with highlight
-- 📋 Copy output
-- 🧹 Clear all results
-- 🕘 Output history tracking
+- ▶ Run Laravel code **directly from the editor**  
+- 📂 Auto creates `.playground/test.php` for experiments  
+- ⚡ Instant execution using **PHP CLI**  
+- 🧠 Full Laravel boot (Models, DB, Facades)  
+- 📊 Output panel with:  
+  - JSON viewer  
+  - HTML preview  
+  - Error display  
+- 🔍 Global search with highlight  
+- 📋 Copy output  
+- 🧹 Clear all results  
+- 🕘 Output history tracking  
 
 ---
 
