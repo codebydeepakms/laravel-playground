@@ -2,6 +2,8 @@
 
 Run Laravel code instantly inside VS Code.
 
+![screenshot](https://github.com/msdeepak393/laravel-playground/blob/main/images/final_out/Screenshot%202026-03-28%20170732.png)
+
 ## ✨ Features
 
 - ▶ Run Laravel code directly from editor
