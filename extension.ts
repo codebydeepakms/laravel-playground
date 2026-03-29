@@ -131,7 +131,11 @@ ${cleaned}
 
     exec(`php "${tempFile}"`, { cwd: root }, (err, stdout, stderr) => {
 
-        const raw = stdout || stderr || 'No output';
+        let raw = stdout || stderr || 'No output';
+ 
+        if (raw != null && raw.includes('.playground\\temp.php:')) {
+            raw = raw.replace(/\s*\/\/\s*\.playground\\temp\.php:\d+/, '');
+        }
 
         let type = 'text';
         if (err) type = 'error';
