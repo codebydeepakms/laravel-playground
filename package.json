@@ -3,7 +3,7 @@
   "displayName": "Laravel Playground (Code Runner)",
   "publisher": "msdeepak393",
   "description": "Run Laravel code quickly. Run Laravel code directly from editor.",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "engines": {
     "vscode": "^1.80.0"
   },
