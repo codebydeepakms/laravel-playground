@@ -1,9 +1,9 @@
-# Laravel Playground 🚀
+# Laravel Playground Pro 🚀
 
-**Laravel Playground (Code Runner)** is a **VS Code extension** that lets you **run Laravel code instantly inside Visual Studio Code**.  
+**Laravel Playground Pro (Code Runner)** is a **VS Code extension** that lets you **run Laravel code instantly inside Visual Studio Code**.  
 
 💡 Download and install from the **VS Code Marketplace**:  
-[🔗 Install Laravel Playground from Marketplace](https://marketplace.visualstudio.com/items?itemName=codebydeepakms.laravel-playground-code-runner)
+[🔗 Install Laravel Playground Pro from Marketplace](https://marketplace.visualstudio.com/items?itemName=codebydeepakms.laravel-playground-code-runner-pro)
 
 ---
 
