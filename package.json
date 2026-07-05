@@ -1,7 +1,7 @@
 {
   "name": "laravel-playground-code-runner",
   "displayName": "Laravel Playground (Code Runner)",
-  "publisher": "msdeepak393",
+  "publisher": "codebydeepakms",
   "description": "Run Laravel code quickly. Run Laravel code directly from editor.",
   "version": "0.0.3",
   "engines": {
