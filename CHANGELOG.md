@@ -15,3 +15,6 @@ All notable changes to this project will be documented in this file.
 ## [0.0.3] - 2026-03-29
 ### Added
 - Bug fixes and improvements.
+## [0.0.4] - 2026-07-05
+### Added
+- Bug fixes and improvements.
